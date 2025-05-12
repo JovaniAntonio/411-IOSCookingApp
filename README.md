@@ -1,4 +1,4 @@
-411 Cooking App
+# 411 Cooking App
 
 A mobile app developed using SwiftUI to help users explore, add, and manage recipes. The app allows users to browse recipes by categories, view detailed recipes with ingredients and directions, and add their own custom recipes.
 
