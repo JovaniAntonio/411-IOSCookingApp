@@ -24,12 +24,10 @@ Installation
 
 Clone the repository:
 
-bash
-CopyEdit
-git clone [https://github.com/your-username/411-cooking-app.git](https://github.com/JovaniAntonio/411-IOSCookingApp.git)
 Open the project in Xcode.
 
 Build and run the app on an iOS simulator or connected device.
+
 
 Usage
 
